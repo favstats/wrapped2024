@@ -288,7 +288,7 @@ This study, conducted with [Tom Dobber](https://www.uva.nl/en/profile/d/o/t.dobb
 
 <br>
 
-By collaborating with Dutch political parties, we uncover how these algorithms influence the cost of reaching different audiences and find some evidence of **price discrimination** where the same service did not lead to the same price.
+By collaborating with Dutch political parties, we uncover how these algorithms influence the cost of reaching different audiences and find some evidence of **price discrimination** where the same service was not offered for the same price.
 
 <br>  
 
