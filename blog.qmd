@@ -1,0 +1,373 @@
+---
+title: "My Year 2024: A Journey"
+description: "Scroll through my year of 2024, celebrating achievements and fun moments."
+author: "Fabio Votta"
+date: "2024/12/31"
+image: "https://via.placeholder.com/800x400.png?text=2024+Highlights"
+execute:
+  eval: true
+  echo: false
+  warning: false
+freeze: auto
+format:
+  closeread-html:
+    css: styles.css
+    cr-style:
+      narrative-background-color-sidebar: "#333333"
+      narrative-text-color-sidebar: "#FFFFFF"
+      section-background-color: "#FFFFFF"
+      narrative-font-size: 14pt
+      narrative-font-family: Arial
+    remove-header-space: true
+    debug-mode: false
+    embed-resources: true
+---
+
+:::{.cr-section}
+
+:::{focus-on="cr-main-plot" pan-to="0,-100px" scale-by="1.2"}
+# My Year 2024: A Journey
+
+Take a scroll through the highlights and milestones of my 2024! This year has truly been the culmination of many years of struggle and challenges that has led to a bombastic year 2024!
+:::
+
+:::{#cr-main-plot .scale-to-fill}
+
+![mainplot](img/GfkDZ0vX0AAYzE6.jpeg)
+:::
+
+
+:::{focus-on="cr-january" pan-to="0,-200px" scale-by="1.1"}
+## 🗓️1️⃣ January
+
+*Microtargeting in Taiwan 🇹🇼*
+
+<br>
+
+In January, [Justin Ho](https://bsky.app/profile/justinho.bsky.social) and I launched a dashboard with [Who Targets Me](whotargets.me) on how Taiwanese political parties are using **Facebook and Instagram ads** to target voters during the presidential and parliamentary elections in Taiwan. 🗳️✨
+
+<br>
+
+💡 Curious to learn more? Check out the **[dashboard here](https://favstats.github.io/wtm_tw/elex)** to explore the data! 🔗
+
+<br>
+
+---
+
+And for a compilation of dashboards showing targeting strategies during more elections in the past years, feel free to explore the links shown [here](https://github.com/favstats/ElectionTargetingDashboards) 🌍
+
+:::
+
+:::{#cr-january .scale-to-fill}
+![](img/january1.jpg)
+:::
+
+
+:::{focus-on="cr-february" pan-to="0,-250px" scale-by="0.925"}
+## 🗓️2️⃣ February
+
+*Presenting at the NORFACE Conference in Vienna 🇦🇹*
+
+<br>
+
+I attended the **NORFACE Governance Final Conference** at the University of Vienna. The conference brought together international scholars to discuss themes in **democratic governance**, such as polarization, disinformation, and citizen trust in institutions.
+
+<br>
+
+I was happy to present our manuscript, **_"Accepting Exclusion"_** (more on that later), alongside my great friend and colleague [Sophie Minihold](https://bsky.app/profile/sophism.bsky.social). 
+
+<br>
+
+Beyond the academic discussions, it was a great time connecting with colleagues and friends and soaking in the historic beauty of the University of Vienna. ✨
+:::
+
+:::{#cr-february .scale-to-fill}
+![](img/february2.jpg)
+:::
+
+:::{focus-on="cr-march" pan-to="0,-300px" scale-by="0.75"}
+## 🗓️3️⃣ March
+
+*Who Doesn('t) Target You?  🌍*
+
+<br>
+
+In March, the **third paper** of my dissertation was accepted at the **[Journal of Quantitative Description](https://journalqd.org/article/view/4188)**. This paper dives into **(micro)targeting strategies** used across *113 elections worldwide*, shedding light on how political parties allocate their budgets for targeting and exclusion criteria.  ✨
+
+<br>
+
+I was in Amsterdam when I got the news, which made it all the more special: since I might have felt like dancing a little. 💃
+
+<br>
+
+You can read the paper here: **[Targeting and Exclusion Across the World](https://journalqd.org/article/view/4188)**. 🔗
+:::
+
+:::{#cr-march .scale-to-fill}
+![](img/march3.jpg)
+:::
+
+:::{focus-on="cr-april" pan-to="0,-300px" scale-by="1.1"}
+## 🗓️4️⃣ April
+
+*The Room Where It Happened 🎓✨*
+
+<br>
+
+On April 19th, **I successfully defended my PhD**, marking the culmination of years of research, challenges, and growth. It’s hard to put into words the gratitude I feel for everyone who supported me along this journey. From colleagues to mentors, friends, and family, my paranymphs, and my partner, you’ve all shaped who I am today. 💙
+
+<br>
+
+The defense was both humbling and exhilarating. Thank you for all who were there on this day!
+
+---
+
+For anyone interested in diving into the work, you can find my dissertation here: **[fabio-defense.phd](fabio-defense.phd)**.
+
+:::
+
+:::{#cr-april .scale-to-fill}
+![](img/GLjdeIqWkAAUOY_.jpeg)
+:::
+
+:::{focus-on="cr-may" pan-to="0,-300px" scale-by="1.1"}
+
+## 🗓️5️⃣ May
+
+*AlgoSoc AI Opinion Monitor 🤖📊*
+
+<br>
+
+In May, [Ernesto de Leon](https://bsky.app/profile/ernesto-deleon.com) and I  officially launched the **[AlgoSoc AI Opinion Monitor](https://monitor.algosoc.org/en/)**, a dashboard providing insights into public opinion on **AI technologies** in the Netherlands. 
+
+<br>
+
+Together with the **[AlgoSoc consortium](https://algosoc.org)** and **[Centerdata](https://www.centerdata.nl)**, we surveyed over **4,000 respondents** to uncover how people use and trust AI tools like **ChatGPT** and **MidJourney**. Excited to see how this project evolves—stay tuned for updates! 🌟
+
+
+<br>
+
+---
+
+Explore the full dashboard here: **[AlgoSoc Monitor](https://monitor.algosoc.org/en/)**. 🔗
+:::
+
+:::{#cr-may .scale-to-fill}
+![](img/may5.jpg)
+:::
+
+:::{focus-on="cr-june" pan-to="0,-285px" scale-by="1.2"}
+## 🗓️6️⃣ June
+
+
+*ICA 2024 in Gold Coast, Australia 🌏✨*
+
+<br>
+
+In June, I attended the **[ICA 2024 Conference](https://www.icahdq.org/)** in Gold Coast, Australia: my first time visiting the land down under! 
+
+<br>
+
+The conference, themed **"Communication and Global Human Rights"**, was inspiring and packed with engaging presentations and discussions.
+
+<br>
+
+But the highlights didn’t stop there: I also had the chance to see **wild kangaroos** and **whales** for the first time together with [Jin Wan](https://bsky.app/profile/wanjin.bsky.social), [Johannes Gruber](https://bsky.app/profile/did:plc:ntd53albt5ffa4rgervvgibd), and [Ernesto de Leon](https://bsky.app/profile/ernesto-deleon.com)! 🐋🦘 
+
+<br>
+
+This made the trip truly special!
+:::
+
+:::{#cr-june .scale-to-fill}
+![](img/junge.jpg)
+:::
+
+:::{focus-on="cr-july" pan-to="0,-275px" scale-by="0.85"}
+## 🗓️7️⃣ July
+
+*Visiting Taiwan 🐾🇹🇼*
+
+<br>
+
+In July, I had the wonderful opportunity to visit Taiwan, connecting with fellow academics and discussing my research on **microtargeting** during the **2024 Taiwanese elections**.   
+
+<br>
+
+My personal (unexpected) highlight of the year: while exploring the countryside of northern Taiwan, I stumbled upon a **giant dog statue** at a temple. 🐕 This surprise discovery was a delightful moment of awe and wonder. 
+
+<br>
+
+For more information about this temple, known as the **Temple of the Eighteen Lords**, you can look here: [Temple of the Eighteen Lords](https://en.wikipedia.org/wiki/Temple_of_the_Eighteen_Lords).
+:::
+
+:::{#cr-july .scale-to-fill}
+![Giant Dog Statue in Taiwan](img/dog3.jpeg)
+:::
+
+:::{focus-on="cr-august" pan-to="0,-250px" scale-by="1.1"}
+## 🗓️8️⃣ August
+
+*Summer Vibes in Berlin ☀️🏖️*
+
+<br>
+
+August was all about soaking up the summer in **Berlin**. One of the highlights was seeing **Alligatoah** perform live which was a fantastic experience. 🎶✨  
+
+<br>
+
+I also embraced quintessential Berlin summer activities such as swimming in the  beautiful lakes. 🏊‍♂️
+:::
+
+:::{#cr-august .scale-to-fill}
+![](img/lanke.jpg)
+:::
+
+
+:::{focus-on="cr-september" pan-to="0,-250px" scale-by="0.8"}
+## 🗓️9️⃣ September
+
+*Large Language Models 📚🤖*
+
+<br>
+
+In September, **[Johannes Gruber](https://johannesbgruber.eu)** and I were thrilled to have our chapter on **Large Language Models (LLMs)** accepted for the **Encyclopedia of Political Communication (2025)**! 🎉  
+
+<br>
+
+Our chapter explores the transformative impact of LLMs like **ChatGPT** on political communication research, highlighting both their immense potential and the challenges they pose in regards to bias, validity, and reproducibility. ✨  
+
+<br>
+
+For those interested in a sneak peek, you can read the pre-print here: **[Large Language Models](https://www.johannesbgruber.eu/publication/2024-09-06-large-language-models/)** 🔗.
+
+:::
+
+:::{#cr-september .scale-to-fill}
+![LLM Chapter Announcement](img/image_2024-12-31_17-51-12.png)
+:::
+
+
+:::{focus-on="cr-october" pan-to="0,-275px" scale-by="1"}
+
+
+## 🗓️🔟 October
+
+*"Accepting Exclusion" Published 📚✨*
+
+<br>
+
+October also brought great news: **[Sophie Minihold](https://bsky.app/profile/sophism.bsky.social)** and I published our article, **"Accepting Exclusion: Examining the (Un)Intended Consequences of Data-Driven Campaigns,"** in **[Media and Communication](https://www.cogitatiopress.com/mediaandcommunication/article/view/8685)**! 🎉 
+
+<br>
+
+The study investigates the (un)intended consequences of **data-driven campaigns** during the Dutch elections of 2021 and 2023. In this study we shed light on **who gets excluded** but also **how citizens perceive these exclusions**.  
+
+<br>
+
+You can read the full article here: **[Accepting Exclusion](https://www.cogitatiopress.com/mediaandcommunication/article/view/8685)** 🔗.
+:::
+
+:::{#cr-october .scale-to-fill}
+![](img/october.png)
+:::
+
+
+:::{focus-on="cr-november" pan-to="0,-275px" scale-by="1"}
+## 🗓️1️⃣1️⃣ November
+
+*"The Cost of Reach" Accepted 🎉📘*
+
+<br>
+
+In November, our paper, **"The Cost of Reach: Testing the Role of Ad Delivery Algorithms in Online Political Campaigns,"** was officially accepted for publication in **Political Communication**! 🎊  
+
+This study, conducted with [Tom Dobber](https://www.uva.nl/en/profile/d/o/t.dobber/t.dobber.html), [Benjamin Guinadeau](https://www.benjamin-guinadeau.com), [Natali Helberger](https://www.ivir.nl/team/helberger/), and [Claes de Vreese](https://bsky.app/profile/claesdevreese.bsky.social), explores the critical role of **ad delivery algorithms** in digital political advertising. 
+
+<br>
+
+By collaborating with Dutch political parties, we uncover how these algorithms influence the cost of reaching different audiences and find some evidence of **price discrimination** where the same service did not lead to the same price.
+
+<br>  
+
+For more, you can access the paper here: **[The Cost of Reach](https://doi.org/10.1080/10584609.2024.2439317)** 🔗.
+:::
+
+:::{#cr-november .scale-to-fill}
+![](img/november.png)
+:::
+
+
+:::{focus-on="cr-december" pan-to="0,-275px" scale-by="1.2"}
+## 🗓️1️⃣2️⃣ December
+
+*Winning Big at a Hackathon! 🏆🤖*
+
+<br>
+
+December ended on a high note as I teamed up with some incredible people: [Miriam](https://twitter.com/MiriamRunde), [Jakob](https://www.linkedin.com/in/jakob-scherer/), [Theresa](https://www.linkedin.com/in/theresa-schueltken/), and [Simon](https://twitter.com/meinungsfuehrer) to win a **€15,000 prize** at a *politechathon* organized by the **[Baden-Württemberg Stiftung](https://www.bwstiftung.de/de/)**! 🎉  
+
+<br>
+
+Our project focused on developing and deploying an **AI-generated content tracking tool** to monitor the use of AI during elections. 
+
+<br>
+
+Excited to see how this project evolves! Stay tuned for updates! 🌟
+:::
+
+:::{#cr-december .scale-to-fill}
+![](img/december.jpg)
+:::
+
+
+:::{focus-on="cr-endplot" pan-to="0,-282px" scale-by="1.2"}
+
+## 🎉 That's A Wrap! 🎆
+
+Thank you for scrolling through my 2024 highlights! 
+
+<br>
+
+Thank you to all the amazing people, friends, colleagues, and beyond, who were part of my journey this year and will be part of the many years and journeys to come!
+
+<br>
+
+Here's to another great year ahead! 🥂
+
+:::
+
+:::{#cr-endplot .scale-to-fill}
+![](img/aprillll.jpeg)
+:::
+
+:::{focus-on="cr-endplot" pan-to="0,-282px" scale-by="1.2"}
+
+## Appendix
+
+
+:::{focus-on="cr-main-plot"}
+
+<br>
+
+{{< fa globe >}} [favstats.eu](favstats.eu)
+
+
+<br>
+
+{{< fa brands bluesky >}} [favstats](https://bsky.app/profile/favstats.eu)
+
+<br>
+
+{{< fa brands github >}} [favstats (Link to Repo)](https://github.com/favstats/wrapped2024)
+
+<br>
+
+{{< fa brands linkedin >}} [Fabio Votta](https://www.linkedin.com/in/dr-fabio-votta-81a862131/)
+
+:::
+
+
+:::
+
+:::
