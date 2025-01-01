@@ -33,7 +33,7 @@ Take a scroll through the highlights and milestones of my 2024! This year has tr
 
 :::{#cr-main-plot .scale-to-fill}
 
-![mainplot](img/GfkDZ0vX0AAYzE6.jpeg)
+![](img/GfkDZ0vX0AAYzE6.jpeg)
 :::
 
 
@@ -202,7 +202,7 @@ For more information about this temple, known as the **Temple of the Eighteen Lo
 :::
 
 :::{#cr-july .scale-to-fill}
-![Giant Dog Statue in Taiwan](img/dog3.jpeg)
+![](img/dog3.jpeg)
 :::
 
 :::{focus-on="cr-august" pan-to="0,-250px" scale-by="1.1"}
@@ -244,7 +244,7 @@ For those interested in a sneak peek, you can read the pre-print here: **[Large 
 :::
 
 :::{#cr-september .scale-to-fill}
-![LLM Chapter Announcement](img/image_2024-12-31_17-51-12.png)
+![](img/image_2024-12-31_17-51-12.png)
 :::
 
 
@@ -360,6 +360,8 @@ Here's to another great year ahead! 🥂
 <br>
 
 {{< fa brands github >}} [favstats (Link to Repo)](https://github.com/favstats/wrapped2024)
+
+I used [Nicola Rennie](https://github.com/nrennie/scrollytelling)'s quarto implementation of [{*closeread*}](https://closeread.dev/) as a starting point to get this 2024 wrapped going.
 
 <br>
 

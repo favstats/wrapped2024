@@ -105,3 +105,12 @@ a {
   height: auto;
   display: block;
 }
+
+
+a {
+  color: white !important; /* Ensures all hyperlinks are white */
+  text-decoration: underline; /* Optional: keep underline for visibility */
+}
+
+a:hover {
+  color: #cccccc !important; /* Optional: a lighter color when hovered */
