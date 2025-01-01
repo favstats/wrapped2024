@@ -1,3 +1,12 @@
+project:
+  type: website
+
+website:
+  title: "Wrapped 2024"
+  twitter-card: true
+  open-graph: true
+
 format:
-  closeread-html:
-    embed-resources: true
+  html:
+    page-layout: full
+    css: styles.css
